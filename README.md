@@ -18,4 +18,4 @@ $ python main.py
 
 ---
 
-[Code](https://github.com/IT-Mikita/Tik-Tac-Toe-Tkinter)
+[Code](https://github.com/IT-Mikita/Tic-Tac-Toe-Tkinter/blob/main/main.py)
